@@ -1,10 +1,8 @@
-
-
 {
   "name": "e-commerce",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mitgit30.github.io/e-commerce",
+  "homepage": "https://Ayush0602.github.io/ReactApp",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
@@ -22,7 +20,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
+    
   },
   "eslintConfig": {
     "extends": [
